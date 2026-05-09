@@ -30,6 +30,7 @@ Anjali Lathwal, Rajesh Kumar, and Gajendra P. S. Raghava
 **Journal:** Virology (2020)
 
 **DOI:** https://doi.org/10.1016/j.virol.2020.05.016
+https://doi.org/10.5281/zenodo.20093446
 
 ---
 
